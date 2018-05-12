@@ -1,0 +1,27 @@
+_repo: A-Review-of-Edwards-s_35958
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tappan, Henry Philip
+    birthdate: 1805
+    deathdate: 1881
+    gutenberg_agent_id: '38000'
+    url: http://www.gutenberg.org/2009/agents/38000
+description: ''
+gutenberg_issued: '2011-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35958'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Edwards, Jonathan, 1703-1758. Freedom of the will'
+- !lcc 'BF'
+- !lcsh 'Free will and determinism'
+title: A Review of Edwards's "Inquiry into the Freedom of the Will"
+url: http://www.gutenberg.org/ebooks/35958
